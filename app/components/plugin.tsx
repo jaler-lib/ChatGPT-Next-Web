@@ -130,15 +130,7 @@ export function PluginPage() {
           </div>
 
           <div className="window-actions">
-            <div className="window-action-button">
-              <a
-                href={PLUGINS_REPO_URL}
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                <IconButton icon={<GithubIcon />} bordered />
-              </a>
-            </div>
+
             <div className="window-action-button">
               <IconButton
                 icon={<CloseIcon />}
