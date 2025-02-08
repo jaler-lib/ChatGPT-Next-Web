@@ -310,7 +310,9 @@ const cn = {
 
     Access: {
       SaasStart: {
-        
+        Title: "使用JalerChat",
+        Label: "（性价比最高的方案）",
+        SubTitle: "广告位1毛1年",
       },
       AccessCode: {
         Title: "访问密码",
