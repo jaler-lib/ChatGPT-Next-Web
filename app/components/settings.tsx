@@ -704,12 +704,11 @@ export function Settings() {
     >
       <IconButton
         aria={
-          Locale.Settings.Access.SaasStart.Title +
-          Locale.Settings.Access.SaasStart.ChatNow
+          Locale.Settings.Access.SaasStart.Title
         }
         icon={<FireIcon />}
         type={"primary"}
-        text={Locale.Settings.Access.SaasStart.ChatNow}
+        text={"JalerChat"}
         onClick={() => {
           trackSettingsPageGuideToCPaymentClick();
           window.location.href = SAAS_CHAT_URL;
