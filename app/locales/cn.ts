@@ -309,6 +309,9 @@ const cn = {
     },
 
     Access: {
+      SaasStart: {
+        
+      },
       AccessCode: {
         Title: "访问密码",
         SubTitle: "管理员已开启加密访问",
