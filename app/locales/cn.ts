@@ -313,6 +313,7 @@ const cn = {
         Title: "使用JalerChat",
         Label: "（性价比最高的方案）",
         SubTitle: "广告位1毛1年",
+        ChatNow: "",
       },
       AccessCode: {
         Title: "访问密码",
